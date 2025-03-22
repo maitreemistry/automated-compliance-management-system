@@ -4,6 +4,10 @@
 
 DigiLoan is a frontend prototype of digital loan application website built using NextJS for the frontend and a backend that integrates Gemini API to check loan eligibility based on RBI rules. The backend uses MySQL to store loan details.
 
+![Alt Text](home.png)
+
+![Alt Text](dashboard.png)
+
 ## Features
 
 - **User Dashboard**: View loan balance, active loans, payments, and available credit.
